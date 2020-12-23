@@ -22,7 +22,7 @@ import com.google.common.collect.Table.Cell;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.remote.MobileCapabilityType;
 
-public class NewClass {
+public class Again {
 	
 	static XSSFWorkbook workBook;
 	static XSSFSheet sheet;
