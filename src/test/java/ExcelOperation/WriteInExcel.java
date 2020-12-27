@@ -50,7 +50,7 @@ public class WriteInExcel {
 			for(int c = 0; c < empsheet[0].length; c++) {
 				
 				Object value = empsheet[r][c];
-				cell =  row.createCell(c);
+				cell = row.createCell(c);
 				cell.setCellValue((String)value);
 				
 			}
